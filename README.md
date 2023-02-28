@@ -1,3 +1,3 @@
-# Singularity IT Solutions, LLC
+Singularity IT Solutions, LLC
 
 Work in Progress
