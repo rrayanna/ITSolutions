@@ -1,3 +1,2 @@
-Singularity IT Solutions, LLC
-
-Work in Progress
+# ITSolutions
+Singularity IT Solutions LLC
